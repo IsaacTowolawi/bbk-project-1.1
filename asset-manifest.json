@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bbk-project-1.1/static/css/main.44acab9e.chunk.css",
+    "main.js": "/bbk-project-1.1/static/js/main.ca012590.chunk.js",
+    "main.js.map": "/bbk-project-1.1/static/js/main.ca012590.chunk.js.map",
+    "runtime-main.js": "/bbk-project-1.1/static/js/runtime-main.2e784a77.js",
+    "runtime-main.js.map": "/bbk-project-1.1/static/js/runtime-main.2e784a77.js.map",
+    "static/js/2.71a1ee1e.chunk.js": "/bbk-project-1.1/static/js/2.71a1ee1e.chunk.js",
+    "static/js/2.71a1ee1e.chunk.js.map": "/bbk-project-1.1/static/js/2.71a1ee1e.chunk.js.map",
+    "static/js/3.d967ec89.chunk.js": "/bbk-project-1.1/static/js/3.d967ec89.chunk.js",
+    "static/js/3.d967ec89.chunk.js.map": "/bbk-project-1.1/static/js/3.d967ec89.chunk.js.map",
+    "index.html": "/bbk-project-1.1/index.html",
+    "static/css/main.44acab9e.chunk.css.map": "/bbk-project-1.1/static/css/main.44acab9e.chunk.css.map",
+    "static/js/2.71a1ee1e.chunk.js.LICENSE.txt": "/bbk-project-1.1/static/js/2.71a1ee1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e784a77.js",
+    "static/js/2.71a1ee1e.chunk.js",
+    "static/css/main.44acab9e.chunk.css",
+    "static/js/main.ca012590.chunk.js"
+  ]
+}
